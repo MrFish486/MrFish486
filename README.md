@@ -3,8 +3,19 @@
 Hello!
 
 Right now I am interested in python, bash, javascript, and (sometimes) c.
+
+Here is a table of my interests :
+
+|Practical and enjoyable|It's gettting there|Meh   |I have to use it sometimes|
+|-----------------------|-------------------|------|--------------------------|
+|Javascript             |Java               |Python|c                         |
+|Bash                   |                   |      |c++                       |
+
 <!---
 MrFish486/MrFish486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Don't ask about the license file here, I just put one in every repo.
+<!---
+MrFish486/MrFish486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
