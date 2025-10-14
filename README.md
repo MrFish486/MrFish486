@@ -2,7 +2,7 @@
 
 Hello!
 
-Right now I am interested in python, bash, javascript, and (sometimes) c.
+I like to spend my time making useless things.
 
 Here is a table of my interests :
 
