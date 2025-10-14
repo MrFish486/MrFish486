@@ -12,6 +12,9 @@ Here is a table of my interests :
 |Javascript             |Java               |Python|c                         |
 |Bash                   |                   |      |c++                       |
 --->
+
+![stats](https://github-readme-stats.vercel.app/api?username=MrFish486&theme=dark)
+
 |Interesting|Meh   |Not interesting|Fun for code golfing but not particularly practical|Still learning|
 |-----------|------|---------------|---------------------------------------------------|--------------|
 |Javascript |Pyton |C#             |Hexagony                                           |Rust          |
