@@ -22,11 +22,4 @@ Here is a table of my interests :
 |Java       |      |               |Uiua                                               |              |
 |           |      |               |C                                                  |              |
 
-<!---
-MrFish486/MrFish486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---
-MrFish486/MrFish486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most of my repositories right now are private, although there are still some public ones:
