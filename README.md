@@ -17,9 +17,9 @@ Here is a table of my interests :
 
 |Interesting|Meh   |Not interesting|Fun for code golfing but not particularly practical|Still learning|
 |-----------|------|---------------|---------------------------------------------------|--------------|
-|Javascript |Pyton |C#             |Hexagony                                           |Rust          |
+|Javascript |Python|C#             |Hexagony                                           |Rust          |
 |Bash       |      |C++            |Befunge (93 mostly)                                |              |
 |Java       |      |               |Uiua                                               |              |
-|           |      |               |C                                                  |              |
+|PHP        |      |               |C                                                  |              |
 
 Most of my repositories right now are private, although there are still some public ones:
